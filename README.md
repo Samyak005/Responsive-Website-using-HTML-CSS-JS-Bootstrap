@@ -20,5 +20,5 @@ Store 4 attributes (name of the person who is adding the skill, the skill, its l
 5. You should have used at least one table which makes use of merged table cells.
 
 ## Instructions
-Folder is organised in 4 subfolders containing html code, css code, js code, and img(images)
+Folder is organised in 4 subfolders containing html code, css code, js code, and img(images)\
 Click on index.html to open in browser
